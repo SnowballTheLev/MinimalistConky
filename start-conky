@@ -1,0 +1,8 @@
+#!/bin/bash
+
+sleep 3
+
+conky -c $HOME/.config/conky/sysinfo-conky.conf &
+conky -c $HOME/.config/conky/taskmgr-conky.conf &
+
+exit
