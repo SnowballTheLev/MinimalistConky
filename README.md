@@ -1,4 +1,4 @@
-<h1>MinimalistConky v1.3.3 Configuration</h1>
+<h1>MinimalistConky Configuration</h1>
 
 <p><img src="https://github.com/SnowballTheLev/MinimalistConky/blob/main/screenshot-w.png" alt="MinimalistConky Screenshot-1" width="49.5%" height="50%"> <img src="https://github.com/SnowballTheLev/MinimalistConky/blob/main/screenshot-b.png" alt="MinimalistConky Screenshot-2" width="49.5%" height="50%"></p>
 
