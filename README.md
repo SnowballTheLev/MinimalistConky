@@ -68,4 +68,4 @@ cd $HOME/.config/conky/
 
 <h2>License</h2>
 
-<p>This project is licensed under the <a href="https://github.com/SnowballTheLev/MinimalistConky/blob/main/LICENSE">GPL License</a>.</p>
+<p>This project is licensed under the <a href="https://github.com/SnowballTheLev/MinimalistConky/blob/main/LICENSE">GNU General Public License</a>.</p>
